@@ -1,0 +1,29 @@
+{
+  "name": "react_practice",
+  "version": "1.0.0",
+  "description": "Aim to walk through the react tutorial to get familiar with the react workflow.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YLChen25/react_practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YLChen25/react_practice/issues"
+  },
+  "homepage": "https://github.com/YLChen25/react_practice#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^10.1.0",
+    "babel-loader": "^8.1.0",
+    "babel-preset-es2018": "^1.0.0",
+    "babel-preset-react": "^6.24.1",
+    "html-webpack-plugin": "^4.4.1",
+    "webpack": "^4.44.1",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
